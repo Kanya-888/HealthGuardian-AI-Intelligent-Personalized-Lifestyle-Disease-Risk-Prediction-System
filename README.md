@@ -167,4 +167,4 @@ streamlit run app.py
 ---
 
 ## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+Distributed under the MIT License. Created by Palvadi Kanya Kusuma Priya.
